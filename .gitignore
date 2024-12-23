@@ -1,0 +1,24 @@
+# Configurações e credenciais sensíveis
+.env
+configs/config.yml
+configs/variables.yml
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebooks com caches temporários
+notebooks/.ipynb_checkpoints/
+
+# Ferramentas e IDEs
+.vscode/
+.idea/
+
+# AWS
+*.parquet
+*.csv
+.env

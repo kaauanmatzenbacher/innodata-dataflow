@@ -1,0 +1,8 @@
+boto3
+python-dotenv
+loguru
+jupyter
+notebook
+ipykernel
+chardet
+pyspark
